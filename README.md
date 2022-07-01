@@ -27,3 +27,5 @@
 
 <p align="center">
 <img src="https://art.pixilart.com/b500a725eb85aae.gif" height=180px width=140px></p>
+
+![Snake Game](https://github.com/Vineet-Jakhar/Vineet-Jakhar/blob/output/github-contribution-grid-snake.svg)
