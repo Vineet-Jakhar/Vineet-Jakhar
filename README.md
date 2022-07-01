@@ -13,7 +13,8 @@
 <h2>Connect with me</h2>
 
 <p align="left">
-<a href="https://instagram.com/vineet.jakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vineet.jakhar" height="30" width="40" /> | 
+<a href="https://instagram.com/vineet.jakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vineet.jakhar" height="30" width="40" /> 
+ |
 <a href="https://linkedin.com/in/vineetjakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineetjakhar" height="30" width="40" /></a></a>
  </p>
  
