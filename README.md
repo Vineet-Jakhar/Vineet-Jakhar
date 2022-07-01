@@ -4,10 +4,10 @@
 
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on my Personal Portfolio Website.
-- 🌱 I’m currently learning Js, NodeJs.
-- 💬 Ask me about C++, HTML, CSS or maybe a cup of COFFEE!
-- 📫 Reach me:  vineet.iitdelhi@gmail.com 
+-  Currently working on my Personal Portfolio Website.
+-  Currently learning Js, NodeJs.
+-  Ask me about C++, HTML, CSS or maybe a cup of COFFEE!
+-  Reach me:  vineet.iitdelhi@gmail.com 
 
 
 <h2>Connect with me</h2>
