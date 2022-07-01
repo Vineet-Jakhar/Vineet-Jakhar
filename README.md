@@ -10,7 +10,11 @@
 - 📫 Reach me:  vineet.iitdelhi@gmail.com 
 
 <h2>Connect with me</h2>
+<p align="left">
 <a href="https://linkedin.com/in/vineetjakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineetjakhar" height="30" width="40" /></a> | <a href="https://instagram.com/vineet.jakhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vineet.jakhar" height="30" width="40" /></a>
+  </p>
+  
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet-jakhar&show_icons=true&locale=en&layout=compact" alt="vineet-jakhar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineet-jakhar&show_icons=true&locale=en" alt="vineet-jakhar" /></p>
