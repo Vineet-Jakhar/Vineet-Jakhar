@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi! I'm Vineet Jakhar</h1>
 
-![](https://komarev.com/ghpvc/?username=Vineet-Jakhar&color=bluevoilet) 
+![](https://komarev.com/ghpvc/?username=Vineet-Jakhar&color=blueviolet) 
 
 Here are some ideas to get you started:
 
