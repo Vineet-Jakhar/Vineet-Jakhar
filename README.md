@@ -21,5 +21,5 @@
  
  <h2>Stats</h2>
     
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet-jakhar&show_icons=true&locale=en&layout=compact" alt="vineet-jakhar" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vineet-jakhar&show_icons=true&locale=en" alt="vineet-jakhar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet-jakhar&show_icons=true&locale=en&layout=compact" alt="vineet-jakhar" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vineet-jakhar&show_icons=true&locale=en" alt="vineet-jakhar" /></p>
