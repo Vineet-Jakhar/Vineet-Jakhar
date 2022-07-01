@@ -8,6 +8,7 @@
 -  Currently learning Js, NodeJs.
 -  Ask me about C++, HTML, CSS or maybe a cup of COFFEE!
 -  Reach me:  vineet.iitdelhi@gmail.com 
+-  <!--🔭🌱💬📫-->
 
 
 <h2>Connect with me</h2>
@@ -21,5 +22,5 @@
  
  <h2>Stats</h2>
     
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet-jakhar&show_icons=true&locale=en&layout=compact" alt="vineet-jakhar" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vineet-jakhar&show_icons=true&locale=en" alt="vineet-jakhar" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet-jakhar&show_icons=true&locale=en&layout=compact&title_color=ffff&icon&text_color=ffff&bg_color=151515" alt="vineet-jakhar" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vineet-jakhar&show_icons=true&locale=en&title_color=ffff&icon&text_color=ffff&bg_color=151515" alt="vineet-jakhar" /></p>
