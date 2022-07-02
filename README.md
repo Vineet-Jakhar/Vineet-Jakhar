@@ -8,7 +8,7 @@
 -  Currently learning Js, NodeJs.
 -  Ask me about C++, HTML, CSS or maybe a cup of COFFEE!
 -  Reach me:  vineet.iitdelhi@gmail.com 
--  <!--🔭🌱💬📫-->
+  <!--🔭🌱💬📫-->
 
 
 <h2>Connect with me</h2>
